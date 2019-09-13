@@ -3,10 +3,17 @@ Python Notebooks used during FuxionEx_Datathon
 
 ## Recommendation System
 
-### 1. Content Based Filtering (Euclidean Distance)
+### 1. Mobility Analytics
+Methodology is as listed below
+1. 1 geohash -> 1 route-part -> 1 route -> 1 count
+2. Make sure user is moving based on sequential points detected along sequential route nodes detected.
+3. Make sure its on the desired road.
+5. Timeseries analysis.
+
+### 2. Content Based Filtering (Euclidean Distance)
 Python notebook with attached dataset
 
-### 2. Collaborative Filtering (Cosine Similiary and Jaccard Similarity)
+### 3. Collaborative Filtering (Cosine Similiary and Jaccard Similarity)
 Python notebook with attached dataset
 
 ## Geohash Processing
