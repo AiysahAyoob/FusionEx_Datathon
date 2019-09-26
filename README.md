@@ -19,6 +19,7 @@ Python notebook with attached dataset
 
 ## Geohash Processing
 Python notebook.
-Datasets are from geofarbrik.
+Datasets are from geofarbrik and GADM.
 Data manipulation and preprocessing of shapefiles are done using geopandas.
+https://gadm.org/download_country_v3.html
 
